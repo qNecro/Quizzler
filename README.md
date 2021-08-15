@@ -1,5 +1,5 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![Showcase](https://raw.githubusercontent.com/qNecro/Quizzler/main/preview.png)
 
 #  Quizzler
 
